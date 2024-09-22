@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Ashraf Ul Alam"
+title: "Sudipta Progga Islam"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-<!-- ## [CV](https://ashraf-ul-alam-amit.github.io/pdf/CV.pdf) -->
+<!-- ## [CV](https://sudiptaproggaislam.github.io/pdf/CV.pdf) -->
 ---
 
 ## Education
@@ -46,13 +46,6 @@ redirect_from:
 
 ## Projects
 
-### **Cycle Thief Detection from Live CCTV Footage using YOLOv5 and DeepSORT**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
-*OpenCV, YOLOv5, DeepSORT, KD-Tree, Face_Matcher*  
-- Developed a real-time cycle thief detection system utilizing YOLOv5 for object detection, DeepSORT for tracking, KD-Tree algorithm for efficient nearest neighbor search, and Face_Matcher for facial recognition from live CCTV footage.
-
-### **Chronic Kidney Disease Prediction using Machine Learning**  [[Project]](https://github.com/ashraf-ul-alam-amit/cycle_theif)
-*Python, Flask API, HTML, CSS*  
-- Performed comprehensive exploratory data analysis and feature engineering to enhance the accuracy of a CKD prediction model. Deployed the model using Flask API and designed a user-friendly web interface with HTML and CSS for CKD risk assessment.
 
 ### **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection)  
 *VGG16, Channel Attention, ResNet50, Deepfake*  
@@ -65,14 +58,6 @@ redirect_from:
 ### **Maternal and Child Health Care**  [[Project]](https://github.com/ashraf-ul-alam-amit/Maternal_Care)
 *HTML, CSS, PHP, MySQL, Android Studio, Java, XML, Firebase Database*  
 - Developed a responsive website for Maternal and Child Health Care featuring due date calculations, immunization schedules, personalized notifications, and a query posting feature. Created a mobile app using Android Studio and Firebase with the same features.
-
-### **RSMS: Retail Store Management System**  [[Project]](https://github.com/ashraf-ul-alam-amit/Retail-Store-Management-System)
-*Android Studio, Java, XML, Firebase Database*  
-- Implemented a mobile application to streamline retail store operations, including inventory management and sales tracking.
-
-### **e-Doctor's Appointment**  [[Project]](https://github.com/ashraf-ul-alam-amit/eDoctor-sAppointment)
-*Android Studio, Java, XML, Firebase Database*  
-- Developed a mobile application for managing and scheduling medical appointments, enhancing user convenience and appointment organization.
 
 ---
 
@@ -93,23 +78,23 @@ Assistant Professor
 Dept. of Computer Science & Engineering  
 Rajshahi University of Engineering & Technology  
 Mobile: +880-1870100318  
-Email: [mahedy@cse.ruet.ac.bd](mailto:mahedy@cse.ruet.ac.bd)
+Email: [mondal@cse.ruet.ac.bd](mailto:mondal@cse.ruet.ac.bd)
 
 **Md. Azmain Yakin Srizon** *(Project Supervisor)*  
 Assistant Professor  
 Dept. of Computer Science & Engineering  
 Rajshahi University of Engineering & Technology  
 Mobile: +880-1790187189  
-Email: [azmainsrizon@gmail.com](mailto:azmainsrizon@gmail.com)
+Email: [nahin@cse.ruet.ac.bd](mailto:nahin@cse.ruet.ac.bd)
 
 ---
 
 ## Contacts
 
-**Phone:** +880 1868-406894  
-**Email:** [ashrafamit9227@gmail.com](mailto:ashrafamit9227@gmail.com)  
-**LinkedIn:** [linkedin.com/in/ashraf-ul-alam-amit](https://www.linkedin.com/in/ashraf-ul-alam-amit)  
-**Address:** 25/2, Nabakalash, Matlabganj, Matlab South, Chandpur-3640, Bangladesh
+**Phone:** +880 1842-090214  
+**Email:** [proggasudipta0@gmail.com](mailto:proggasudipta0@gmail.com)  
+**LinkedIn:** [www.linkedin.com/in/sudipta-progga-islam](www.linkedin.com/in/sudipta-progga-islam)  
+**Address:** 404, 4C, Rajuk Uttara Apartment Project, Sector-18, Uttara, Dhaka-1230, Bangladesh
 
 
 

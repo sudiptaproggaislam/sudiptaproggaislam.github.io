@@ -1,14 +1,10 @@
 ---
 permalink: /
-title: "Hi There!"
+title: "Hi, I'm Progga!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-I’m Sudipta, a researcher passionate about solving real-world problems through AI. With an undergraduate degree in *Computer Science and Engineering* from Rajshahi University of Engineering & Technology *(RUET)*, my research work spans **Computer Vision, Medical Imaging, and Unsupervised Domain Adaptation**. I've developed advanced frameworks for medical image segmentation and classification and worked with state-of-the-art models to enhance AI applications.
-
-My diverse projects range from optimizing neural networks for healthcare to addressing OCR challenges with complex scripts like Bengali. Notable projects include *Real-time Cycle Thief Detection* using YOLOv5 and DeepSORT and advanced medical image segmentation with *knowledge distillation*. Currently, I’m exploring **Natural Language Processing and Large Language Models**, finding them both fascinating and full of potential. 
-
-Always on the lookout for innovative opportunities to explore and collaborate. Let’s connect and build something innovative together!
+I'm a researcher with broad interests in **Computer Vision, Medical Imaging, Natural Language Processing, and Large Language Models**. I hold a bachelor’s degree in Computer Science & Engineering from Rajshahi University of Engineering & Technology, Bangladesh. I’ve developed advanced frameworks for medical image segmentation and classification, and worked with state-of-the-art models to push the boundaries of AI applications.
+I’m always eager to take on fresh challenges and collaborate on groundbreaking projects—feel free to reach out!

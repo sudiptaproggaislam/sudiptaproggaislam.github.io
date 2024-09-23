@@ -13,7 +13,7 @@ redirect_from:
 
 **Rajshahi University of Engineering & Technology (RUET), Rajshahi, Bangladesh**  
 *Bachelor of Science in Computer Science and Engineering*  
-*2019 - 2024 | CGPA: 3.44 out of 4.00*
+*2019 - 2024 | CGPA: 3.84 out of 4.00 | Position: 4th out of 179*
 
 **Relevant Coursework:** Applied Statistics & Queuing Theory (Python), Neural Networks & Fuzzy Systems, Data Mining, Artificial Intelligence, Digital Image Processing, Database Systems, Parallel and Distributed Processing, Digital Signal Processing, Data Structure (C), Object Oriented Programming (C++, Java), Computer Algorithms
 
@@ -25,22 +25,27 @@ redirect_from:
 *ICEEICT 2024 | IEEE Xplore*  | [DOI: 10.1109/ICEEICT62016.2024.10534436](https://doi.org/10.1109/ICEEICT62016.2024.10534436)  
 - Evaluated various pretrained models as U-Net backbones, validated across Drishti-GS, REFUGE, and RIM-ONE-R3 datasets, and developed an enhanced U-Net with residual and attention mechanisms.
 - **Award Nomination:** Nominated for Best Poster Award at ICEEICT 2024.
-
+  
+### **Advancing Ophthalmology through Transfer Learning and Channel-wise Attention for Retinal Disease Classification**  
+*ICEEICT 2024 | IEEE Xplore*  | [DOI: 10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342)  
+- Developed a hybrid model merging EfficientNetB0 and InceptionV3 with channel-wise attention, improving discriminative ability by dynamically adjusting attention across channels, outperforming state-of-the-art models.
+  
 ### **BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture**  
 *BIM 2023 | Taylor and Francis* | [Project](https://github.com/ashraf-ul-alam-amit/BanglaOngko)
 - Created and annotated the BanglaOngko dataset with Roboflow, developed an efficient algorithm integrating statistical concepts to accurately localize handwritten Bengali mathematical expressions, addressing YOLOv8's unsorted bounding box challenges.
 
-### **Advancing Ophthalmology through Transfer Learning and Channel-wise Attention for Retinal Disease Classification**  
-*ICEEICT 2024 | IEEE Xplore*  | [DOI: 10.1109/ICEEICT62016.2024.10534342](https://doi.org/10.1109/ICEEICT62016.2024.10534342)  
-- Developed a hybrid model merging EfficientNetB0 and InceptionV3 with channel-wise attention, improving discriminative ability by dynamically adjusting attention across channels, outperforming state-of-the-art models.
+### **A Deep CNN-Based Approach for Revolutionizing Bengali Handwritten Numeral Recognition**
+*BIM 2023 | Taylor and Francis* | [DOI: 10.1007/978-981-99-8937-914](https://www.springerprofessional.de/en/a-deep-cnn-based-approach-for-revolutionizing-bengali-handwritte/26924490)
+• A task-oriented deep convolutional architecture for recognizing Bengali handwritten numerals, with a focus on achieving high accuracy
+while using a relatively small number of parameters.
 
 ---
 
 ## Undergraduate Thesis
 
-### KD-UDA: Knowledge Distillation-based Unsupervised Domain Adaptation for Improved Medical Image Segmentation  [[Project]](https://github.com/ashraf-ul-alam-amit/KD-UDA)
-*Tensorflow, Keras, CNN, Transfer Learning, U-Net*  
-- Developed the KD-UDA framework, using Knowledge Distillation to enhance segmentation model performance on diverse medical imaging datasets without labeled data from new domains, significantly improving performance for both 2D retinal fundus images and 3D MRI data (BraTS2021).
+### RAD-U-Net: Residual Attention-based Dual-path U-Net for Segmentation of Multiple Myeloma Cells in Microscopic Images for Clinical Diagnosis [[Project]](https://github.com/sudiptaproggaislam/)
+*Python, Tensorflow, Keras, CNN, Attention mechanism, Residual connection, U-Net*  
+- Designed and implemented RAD-U-Net, a dual-path U-Net model enhanced with attention and residual connections for precise segmentation of myeloma cells. Combined low-level and high-level features for improved accuracy and computational efficiency, enabling practical use in clinical settings.
 
 ---
 
@@ -50,6 +55,10 @@ redirect_from:
 ### **Optimizing Feature Representation of Deep Neural Networks for Enhanced Deepfake Detection** [[Project]](https://github.com/ashraf-ul-alam-amit/Deepfake-Image-Detection)  
 *VGG16, Channel Attention, ResNet50, Deepfake*  
 - Focused on detecting deepfake images using the [140k Real and Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces/data) dataset. Employed VGG16 as the primary feature extractor, then introduced a **channel attention mechanism** to prioritize relevant feature vectors and finally achieved a high classification accuracy of 99.80%. Further, conducted an **ablation study** with ResNet50.
+
+### **Fake News Detection System** [[Project]](https://github.com/sudiptaproggaislma)  
+*NLP, Tensorflow, Keras, GloVe Embeddings, LSTM*  
+- Built a system to classify news as fake or real using GloVe embeddings and an LSTM-based neural network in TensorFlow. Performed data preprocessing and analysis, and evaluated the model with accuracy, confusion matrix, and ROC curve.
 
 ### **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning** [[Project]](https://github.com/ashraf-ul-alam-amit/fetal_health) [[Slide]](https://github.com/ashraf-ul-alam-amit/fetal_health/blob/master/fetal_health.pdf)  
 *Random Forest, K-Nearest Neighbors, Gradient Boosting, SMOTE*  
@@ -63,8 +72,9 @@ redirect_from:
 
 ## Technical Skills and Interests
 
-- **Research Areas:** Computer Vision, Domain Adaptation, Object Detection, NLP, LLM, Transfer & Conventional Learning
-- **Programming:** Python, C, C++, Java, PHP
+- **Research Areas:** Computer Vision, Medical Imaging, Object Detection, Unsupervised Learning, Data Science, Natural
+Language Processing, Generative AI
+- **Programming:** Python, C, C++, Java, JavaScript, PHP
 - **Frameworks:** TensorFlow, Scikit-Learn, Keras, OpenCV, PyTorch, Bootstrap
 - **Web & Databases:** HTML, CSS, PHP, MySQL
 - **Technologies:** Flask, Android Studio, LaTeX, Git
@@ -73,18 +83,18 @@ redirect_from:
 
 ## References
 
-**S. M. Mahedy Hasan** *(Undergrad Thesis Supervisor)*  
-Assistant Professor  
-Dept. of Computer Science & Engineering  
+**Dr. Md. Nazrul Islam Mondal** *(Undergrad Thesis Supervisor)*  
+Professor  
+Department of Computer Science & Engineering  
 Rajshahi University of Engineering & Technology  
-Mobile: +880-1870100318  
+Mobile: +880-17206622788  
 Email: [mondal@cse.ruet.ac.bd](mailto:mondal@cse.ruet.ac.bd)
 
-**Md. Azmain Yakin Srizon** *(Project Supervisor)*  
+**Nahin Ul Sadad** *(Project Supervisor)*  
 Assistant Professor  
-Dept. of Computer Science & Engineering  
+Department of Computer Science & Engineering  
 Rajshahi University of Engineering & Technology  
-Mobile: +880-1790187189  
+Mobile: +880-1778059702  
 Email: [nahin@cse.ruet.ac.bd](mailto:nahin@cse.ruet.ac.bd)
 
 ---

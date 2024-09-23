@@ -36,7 +36,7 @@ redirect_from:
 
 ### **A Deep CNN-Based Approach for Revolutionizing Bengali Handwritten Numeral Recognition**
 *BIM 2023 | Taylor and Francis* | [DOI: 10.1007/978-981-99-8937-914](https://www.springerprofessional.de/en/a-deep-cnn-based-approach-for-revolutionizing-bengali-handwritte/26924490)
-• A task-oriented deep convolutional architecture for recognizing Bengali handwritten numerals, with a focus on achieving high accuracy
+- A task-oriented deep convolutional architecture for recognizing Bengali handwritten numerals, with a focus on achieving high accuracy
 while using a relatively small number of parameters.
 
 ---

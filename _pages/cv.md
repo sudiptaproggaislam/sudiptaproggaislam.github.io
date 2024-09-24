@@ -31,11 +31,11 @@ redirect_from:
 - Developed a hybrid model merging EfficientNetB0 and InceptionV3 with channel-wise attention, improving discriminative ability by dynamically adjusting attention across channels, outperforming state-of-the-art models.
   
 ### **BanglaOngko: A New Dataset for Accurate Bengali Mathematical Expression Detection Utilizing YOLOv8 Architecture**  
-*BIM 2023 | Taylor and Francis* | [Project](https://github.com/ashraf-ul-alam-amit/BanglaOngko)
+*BIM 2023 | Taylor and Francis* | [Project](https://github.com/sudiptaproggaislam/BanglaOngko)
 - Created and annotated the BanglaOngko dataset with Roboflow, developed an efficient algorithm integrating statistical concepts to accurately localize handwritten Bengali mathematical expressions, addressing YOLOv8's unsorted bounding box challenges.
 
 ### **A Deep CNN-Based Approach for Revolutionizing Bengali Handwritten Numeral Recognition**
-*BIM 2023 | Taylor and Francis* | [DOI: 10.1007/978-981-99-8937-914](https://www.springerprofessional.de/en/a-deep-cnn-based-approach-for-revolutionizing-bengali-handwritte/26924490)
+*BIM 2023 | Springer* | [DOI: 10.1007/978-981-99-8937-914](https://www.springerprofessional.de/en/a-deep-cnn-based-approach-for-revolutionizing-bengali-handwritte/26924490)
 - A task-oriented deep convolutional architecture for recognizing Bengali handwritten numerals, with a focus on achieving high accuracy
 while using a relatively small number of parameters.
 
@@ -56,24 +56,28 @@ while using a relatively small number of parameters.
 *VGG16, Channel Attention, ResNet50, Deepfake*  
 - Focused on detecting deepfake images using the [140k Real and Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces/data) dataset. Employed VGG16 as the primary feature extractor, then introduced a **channel attention mechanism** to prioritize relevant feature vectors and finally achieved a high classification accuracy of 99.80%. Further, conducted an **ablation study** with ResNet50.
 
-### **Fake News Detection System** [[Project]](https://github.com/sudiptaproggaislma)  
+### **Fake News Detection System** [[Project]](https://github.com/sudiptaproggaislam/)  
 *NLP, Tensorflow, Keras, GloVe Embeddings, LSTM*  
 - Built a system to classify news as fake or real using GloVe embeddings and an LSTM-based neural network in TensorFlow. Performed data preprocessing and analysis, and evaluated the model with accuracy, confusion matrix, and ROC curve.
 
-### **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning** [[Project]](https://github.com/ashraf-ul-alam-amit/fetal_health) [[Slide]](https://github.com/ashraf-ul-alam-amit/fetal_health/blob/master/fetal_health.pdf)  
+### **Cardiotocogram Data Analysis for Fetal Health Classification Using Machine Learning** [[Project]](https://github.com/sudiptaproggaislam/Fetal_Health_Classification)
 *Random Forest, K-Nearest Neighbors, Gradient Boosting, SMOTE*  
 - Aimed to classify fetal health status from Cardiotocogram (CTG) data using machine learning models. Utilized a dataset of 2,126 records with 21 features. Applied models like Random Forest, K-Nearest Neighbors, and Gradient Boosting, achieving the highest accuracy of **98.47%**. Employed feature selection, data standardization, and SMOTE to enhance performance.
 
-### **Maternal and Child Health Care**  [[Project]](https://github.com/ashraf-ul-alam-amit/Maternal_Care)
+### **Maternal and Child Health Care**  [[Project]](https://github.com/sudiptaproggaislam/MaternalCare)
 *HTML, CSS, PHP, MySQL, Android Studio, Java, XML, Firebase Database*  
 - Developed a responsive website for Maternal and Child Health Care featuring due date calculations, immunization schedules, personalized notifications, and a query posting feature. Created a mobile app using Android Studio and Firebase with the same features.
 
+### **Library Management App** [[Project]](https://github.com/sudiptaproggaislam/LibraryManagementApp)
+*Android Studio, Java, XML, Firebase Database*
+- Developed a mobile application to streamline library operations, including catalog management, user borrowing, and return tracking.
+  
 ---
 
 ## Technical Skills and Interests
 
 - **Research Areas:** Computer Vision, Medical Imaging, Object Detection, Unsupervised Learning, Data Science, Natural
-Language Processing, Generative AI
+Language Processing, Large Language Models
 - **Programming:** Python, C, C++, Java, JavaScript, PHP
 - **Frameworks:** TensorFlow, Scikit-Learn, Keras, OpenCV, PyTorch, Bootstrap
 - **Web & Databases:** HTML, CSS, PHP, MySQL
@@ -116,13 +120,13 @@ Email: [nahin@cse.ruet.ac.bd](mailto:nahin@cse.ruet.ac.bd)
 
 ### GitHub Stats
 
-![Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashraf-ul-alam-amit&count_private=true)
-![Ashraf's GitHub Streak Stats](https://github-readme-streak-stats-peach.vercel.app?user=ashraf-ul-alam-amit)
+![Sudipta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashraf-ul-alam-amit&count_private=true)
+![Sudipta's GitHub Streak Stats](https://github-readme-streak-stats-peach.vercel.app?user=ashraf-ul-alam-amit)
 
 
 
 
-**ashraf-ul-alam-amit/ashraf-ul-alam-amit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

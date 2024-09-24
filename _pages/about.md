@@ -16,4 +16,5 @@ I’m always eager to take on fresh challenges and collaborate on groundbreaking
 - Natural Language Processing
 - Large Language Models
 - Generative AI
+- Explainable AI
 - Unsupervised Learning

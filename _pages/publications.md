@@ -35,6 +35,6 @@ Taylor and Francis
 ---
 # Thesis
 ### RAD-U-Net: Residual Attention-based Dual-path U-Net for Segmentation of Multiple Myeloma Cells in Microscopic Images for Clinical Diagnosis
-- A portion of my undergraduate thesis was published at International Conference on Power, Electrical, Electronics and Industrial Applications (PEEIACON) 2024. This work was done under the supervision of Dr. Md. Nazrul Islam Mondal.
+- A portion of my undergraduate thesis was published at International Conference on Power, Electrical, Electronics and Industrial Applications (PEEIACON) 2024. This work was done under the supervision of Dr. Md. Nazrul Islam Mondal and Nahin Ul Sadad.
 
 Paper: 

@@ -77,7 +77,7 @@ while using a relatively small number of parameters.
 ## Technical Skills and Interests
 
 - **Research Areas:** Computer Vision, Medical Imaging, Object Detection, Unsupervised Learning, Data Science, Natural
-Language Processing, Large Language Models
+Language Processing, Large Language Models, Vision Language Models
 - **Programming:** Python, C, C++, Java, JavaScript, PHP
 - **Frameworks:** TensorFlow, Scikit-Learn, Keras, OpenCV, PyTorch, Bootstrap
 - **Web & Databases:** HTML, CSS, PHP, MySQL

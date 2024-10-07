@@ -19,6 +19,10 @@ redirect_from:
 
 ---
 
+## Standardized Test Scores 
+IELTS: Overall 7.0 (Listening: 7.5, Reading: 7.5, Writing: 6.5 & Speaking: 7.0)
+
+---
 ## Publications
 
 ### **Optic Disc and Cup Segmentation via Enhanced U-Net with Residual and Attention Mechanisms**  

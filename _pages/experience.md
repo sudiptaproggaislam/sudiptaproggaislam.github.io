@@ -9,13 +9,14 @@ permalink: /experience/
 **Research Assistant**  
 *March 2023-May 2024*
 
+**Lab Head and Supervisor:** [Md. Azmain Yakin Srizon](https://www.ruet.ac.bd/azmainsrizon)
+
 In this role, I specialized in Computer Vision and Medical Image Analysis, where my key responsibilities included:  
 - Developing optimized Convolutional Neural Networks for medical image analysis
 - Collecting and preparing datasets for Optical Character Recognition (OCR) tasks
 - Designing algorithms to enhance OCR performance, specifically for extracting handwritten Bengali text from images.  
 
 During this period, I also published two conference papers in Taylor & Francis and IEEE.  
-**Lab Head and Supervisor:** [Md. Azmain Yakin Srizon](https://www.ruet.ac.bd/azmainsrizon)
 
 ---
 

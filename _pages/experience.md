@@ -16,7 +16,7 @@ In this role, I specialized in Computer Vision and Medical Image Analysis, where
 - Designing algorithms to enhance OCR performance, specifically for extracting handwritten Bengali text from images
 
 During this period, I also published two conference papers in Taylor & Francis and IEEE.
-- **Lab Head and Supervisor:** [Md. Azmain Yakin Srizon](https://www.ruet.ac.bd/azmainsrizon)
+**Lab Head and Supervisor:** [Md. Azmain Yakin Srizon](https://www.ruet.ac.bd/azmainsrizon)
 
 ---
 

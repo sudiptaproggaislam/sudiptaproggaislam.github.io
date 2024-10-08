@@ -5,7 +5,6 @@ permalink: /experience/
 
 ### Young Learners’ Research Lab
 **Research Assistant**
-
 *March 2023-May 2024*
 
 In this role, I specialized in Computer Vision and Medical Image Analysis, where my key responsibilities included:

@@ -1,5 +1,5 @@
 ---
-title: "Experiences"
+title: "Experience"
 permalink: /experience/
 ---
 

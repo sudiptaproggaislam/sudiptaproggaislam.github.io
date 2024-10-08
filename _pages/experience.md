@@ -5,6 +5,7 @@ permalink: /experience/
 
 ### Young Learners’ Research Lab
 **Research Assistant**
+
 *March 2023-May 2024*
 
 In this role, I specialized in Computer Vision and Medical Image Analysis, where my key responsibilities included:
@@ -13,7 +14,7 @@ In this role, I specialized in Computer Vision and Medical Image Analysis, where
 - Collecting and preparing datasets for Optical Character Recognition (OCR) tasks
 - Designing algorithms to enhance OCR performance, specifically for extracting handwritten Bengali text from images
 
-During this period, I also published two conference papers, one with Taylor & Francis and the other with IEEE.
+During this period, I also published two conference papers in Taylor & Francis and IEEE.
 
 
 ### ITEE Training Program by Bangladesh IT-engineers Examination Center (BD-ITEC)

@@ -111,7 +111,7 @@ Email: [nahin@cse.ruet.ac.bd](mailto:nahin@cse.ruet.ac.bd)
 
 **Phone:** +880 1842-090214  
 **Email:** [proggasudipta0@gmail.com](mailto:proggasudipta0@gmail.com)  
-**LinkedIn:** [www.linkedin.com/in/sudipta-progga-islam](www.linkedin.com/in/sudipta-progga-islam)  
+**LinkedIn:** [Sudipta Progga Islam](https://www.linkedin.com/in/sudipta-progga-islam)  
 **Address:** 404, 4C, Rajuk Uttara Apartment Project, Sector-18, Uttara, Dhaka-1230, Bangladesh
 
 

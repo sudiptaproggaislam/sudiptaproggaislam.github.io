@@ -7,7 +7,6 @@ permalink: /experience/
 
 ### Lecturer
 **Department of Computer Science and Engineering**  
-**BGMEA University of Fashion & Technology**  
 *October 2024-Present*  
 ---
 

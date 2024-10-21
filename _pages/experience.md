@@ -9,6 +9,7 @@ permalink: /experience/
 **Department of Computer Science and Engineering**  
 **BGMEA University of Fashion & Technology (BUFT)**  
 *October 2024-Present*  
+
 ---
 
 ## Research Assistant

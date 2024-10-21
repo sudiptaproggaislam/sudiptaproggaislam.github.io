@@ -5,13 +5,13 @@ permalink: /experience/
 
 ---
 
-### Lecturer
+## Lecturer
 **Department of Computer Science and Engineering**  
-**BGMEA University of Fashion & Technology (BUFT)**
+**BGMEA University of Fashion & Technology (BUFT)**  
 *October 2024-Present*  
 ---
 
-### Research Assistant
+## Research Assistant
 **Young Learners’ Research Lab**  
 *March 2023-May 2024*
 
@@ -26,7 +26,7 @@ During this period, I also published two conference papers in Taylor & Francis a
 
 ---
 
-### Trainee
+## Trainee
 **ITEE Training Program by Bangladesh IT-engineers Examination Center (BD-ITEC)**  
 *March 2023*  
 

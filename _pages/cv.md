@@ -9,6 +9,14 @@ redirect_from:
 <!-- ## [CV](https://sudiptaproggaislam.github.io/pdf/CV.pdf) -->
 ---
 
+### Experience
+
+Lecturer
+Department of Computer Science and Engineering
+BGMEA University of Fashion & Technology (BUFT)
+
+---
+
 ## Education
 
 **Rajshahi University of Engineering & Technology (RUET), Rajshahi, Bangladesh**  
@@ -24,6 +32,10 @@ IELTS: Overall 7.0 (Listening: 7.5, Reading: 7.5, Writing: 6.5 & Speaking: 7.0)
 
 ---
 ## Publications
+
+### **RAD-U-Net: Residual Attention-based Dual-path U-Net for Segmentation of Multiple Myeloma Cells in Microscopic Images for Clinical Diagnosis**    
+*PEEIACON 2024 | IEEE Xplore* | [DOI: 10.1109/PEEIACON63629.2024.10800485](https://ieeexplore.ieee.org/document/10800485)
+- Designed and implemented RAD-U-Net, a dual-path U-Net model enhanced with attention and residual connections for precise segmentation of myeloma cells. Combined low-level and high-level features for improved accuracy and computational efficiency, enabling practical use in clinical settings.
 
 ### **Optic Disc and Cup Segmentation via Enhanced U-Net with Residual and Attention Mechanisms**  
 *ICEEICT 2024 | IEEE Xplore*  | [DOI: 10.1109/ICEEICT62016.2024.10534436](https://doi.org/10.1109/ICEEICT62016.2024.10534436)  
@@ -43,15 +55,9 @@ IELTS: Overall 7.0 (Listening: 7.5, Reading: 7.5, Writing: 6.5 & Speaking: 7.0)
 - A task-oriented deep convolutional architecture for recognizing Bengali handwritten numerals, with a focus on achieving high accuracy
 while using a relatively small number of parameters.
 
----
-
-## Undergraduate Thesis
-
-### RAD-U-Net: Residual Attention-based Dual-path U-Net for Segmentation of Multiple Myeloma Cells in Microscopic Images for Clinical Diagnosis [[Project]](https://github.com/sudiptaproggaislam/)
-*Python, Tensorflow, Keras, CNN, Attention mechanism, Residual connection, U-Net*  
-- Designed and implemented RAD-U-Net, a dual-path U-Net model enhanced with attention and residual connections for precise segmentation of myeloma cells. Combined low-level and high-level features for improved accuracy and computational efficiency, enabling practical use in clinical settings.
 
 ---
+
 
 ## Projects
 

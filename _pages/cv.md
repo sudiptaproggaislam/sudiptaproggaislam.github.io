@@ -11,9 +11,9 @@ redirect_from:
 
 ### Experience
 
-Lecturer
-Department of Computer Science and Engineering
-BGMEA University of Fashion & Technology (BUFT)
+Lecturer 
+Department of Computer Science and Engineering 
+BGMEA University of Fashion & Technology (BUFT) 
 
 ---
 

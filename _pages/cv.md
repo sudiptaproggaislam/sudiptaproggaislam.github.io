@@ -26,11 +26,6 @@ BGMEA University of Fashion & Technology (BUFT)
 **Relevant Coursework:** Operating Systems, Applied Statistics & Queuing Theory, Artificial Intelligence, Neural Networks & Fuzzy Systems, Data Mining, Digital Image Processing, Database Systems, Parallel and Distributed Processing, Digital Signal Processing, Network Security, Software Engineering
 
 ---
-
-## Standardized Test Scores 
-IELTS: Overall 7.0 (Listening: 7.5, Reading: 7.5, Writing: 6.5 & Speaking: 7.0)
-
----
 ## Publications
 
 ### **RAD-U-Net: Residual Attention-based Dual-path U-Net for Segmentation of Multiple Myeloma Cells in Microscopic Images for Clinical Diagnosis**    
@@ -118,7 +113,7 @@ Email: [nahin@cse.ruet.ac.bd](mailto:nahin@cse.ruet.ac.bd)
 **Phone:** +880 1842-090214  
 **Email:** [proggasudipta0@gmail.com](mailto:proggasudipta0@gmail.com)  
 **LinkedIn:** [Sudipta Progga Islam](https://www.linkedin.com/in/sudipta-progga-islam)  
-**Address:** 404, 4C, Rajuk Uttara Apartment Project, Sector-18, Uttara, Dhaka-1230, Bangladesh
+**Address:** Uttara, Dhaka-1230, Bangladesh
 
 
 
